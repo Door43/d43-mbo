@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbo:home|Door43 (mbo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbo|d43-mbo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbo/archive/master.zip|d43-mbo.zip]]
+
+**Recent Changes**
+{{changes>ns = mbo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbo|Ethnologue data]]
+
